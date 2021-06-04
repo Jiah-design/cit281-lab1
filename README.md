@@ -4,6 +4,6 @@
 - Practice keyboard shortcuts
 
 ![Screenshot](lab-01-node.png)
-Basic keyboard shortcut [file](lab-01.shortcuts.txt)
+Basic keyboard shortcut [file](https://github.com/Jiah-design/cit281-lab1/blob/main/lab-01.shortcuts.txt)
 
 
